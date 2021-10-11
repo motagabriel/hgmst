@@ -42,6 +42,9 @@ body {
 		margin-left: 0;
 		padding: 0;
 	}
+	.menu ul li a{
+		margin-left: 0;
+	}
 
 	.menu .navbar-light .navbar-nav .nav-link {
 		color: #fff;
@@ -98,7 +101,7 @@ body {
 	font-weight: 700;
 } 
 
-@media (max-width: 1280px) {
+@media (max-width: 1400px) {
 
 	.localizacao .mapa {
 		text-align: center;
