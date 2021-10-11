@@ -101,13 +101,17 @@ body {
 	font-weight: 700;
 } 
 
-@media (max-width: 1400px) {
+.localizacao iframe {
+	text-align: center;
+}
+
+@media (max-width: 1200px) {
 
 	.localizacao .mapa {
 		text-align: center;
 	}
 	.localizacao iframe {
-		max-width: 380px;
+		max-width: 400px;
 		text-align: center;
 	}
 }
